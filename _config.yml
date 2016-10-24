@@ -14,7 +14,7 @@ exclude:
   - LICENSE
 
 include:
-  - client
+  - interface
   - server
   - _includes
   - index.md
