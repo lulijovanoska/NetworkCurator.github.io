@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Server
-permalink: /
+permalink: /server/
 ---
 
 Description server-side

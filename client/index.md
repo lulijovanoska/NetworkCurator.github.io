@@ -1,7 +1,7 @@
 ---
 layout: doc
 title: Client
-permalink: /
+permalink: /client/
 ---
 
 Description of user interface
