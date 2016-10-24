@@ -1,0 +1,20 @@
+# Site settings
+title: NetworkCurator
+description: NetworkCurator 
+path: /
+url: "" 
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE
+
+include:
+  - client
+  - server
+  - _includes
+  - index.md
